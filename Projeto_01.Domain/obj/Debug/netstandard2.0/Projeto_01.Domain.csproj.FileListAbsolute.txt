@@ -1,7 +1,6 @@
 C:\Projetos_DotNet\Projeto_01\Projeto_01.Domain\bin\Debug\netstandard2.0\Projeto_01.Domain.deps.json
 C:\Projetos_DotNet\Projeto_01\Projeto_01.Domain\bin\Debug\netstandard2.0\Projeto_01.Domain.dll
 C:\Projetos_DotNet\Projeto_01\Projeto_01.Domain\bin\Debug\netstandard2.0\Projeto_01.Domain.pdb
-C:\Projetos_DotNet\Projeto_01\Projeto_01.Domain\obj\Debug\netstandard2.0\Projeto_01.Domain.csproj.AssemblyReference.cache
 C:\Projetos_DotNet\Projeto_01\Projeto_01.Domain\obj\Debug\netstandard2.0\Projeto_01.Domain.csproj.CoreCompileInputs.cache
 C:\Projetos_DotNet\Projeto_01\Projeto_01.Domain\obj\Debug\netstandard2.0\Projeto_01.Domain.AssemblyInfoInputs.cache
 C:\Projetos_DotNet\Projeto_01\Projeto_01.Domain\obj\Debug\netstandard2.0\Projeto_01.Domain.AssemblyInfo.cs

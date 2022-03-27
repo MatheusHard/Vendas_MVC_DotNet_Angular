@@ -10,7 +10,12 @@
       "ProjectGuid": "54910f0b-ccff-4e0e-954d-db5a4108e416",
       "DisplayName": "Projeto_01.Domain",
       "ColorIndex": 1
+    },
+    "0d381b6f-62ef-4ca3-9f8f-6b1841cb9f38": {
+      "ProjectGuid": "0d381b6f-62ef-4ca3-9f8f-6b1841cb9f38",
+      "DisplayName": "Projeto_01.Repository",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
