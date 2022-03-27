@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94b979c4-b605-477a-a8b3-bfaee4a1a0e2": {
+      "ProjectGuid": "94b979c4-b605-477a-a8b3-bfaee4a1a0e2",
+      "DisplayName": "Projeto_01.Web",
+      "ColorIndex": 0
+    },
+    "54910f0b-ccff-4e0e-954d-db5a4108e416": {
+      "ProjectGuid": "54910f0b-ccff-4e0e-954d-db5a4108e416",
+      "DisplayName": "Projeto_01.Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

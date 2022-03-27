@@ -1,0 +1,9 @@
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\bin\Debug\netstandard2.0\Projeto_01.Repository.deps.json
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\bin\Debug\netstandard2.0\Projeto_01.Repository.dll
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\bin\Debug\netstandard2.0\Projeto_01.Repository.pdb
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\obj\Debug\netstandard2.0\Projeto_01.Repository.csproj.AssemblyReference.cache
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\obj\Debug\netstandard2.0\Projeto_01.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\obj\Debug\netstandard2.0\Projeto_01.Repository.AssemblyInfoInputs.cache
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\obj\Debug\netstandard2.0\Projeto_01.Repository.AssemblyInfo.cs
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\obj\Debug\netstandard2.0\Projeto_01.Repository.dll
+C:\Projetos_DotNet\Projeto_01\Projeto_01.Repository\obj\Debug\netstandard2.0\Projeto_01.Repository.pdb
