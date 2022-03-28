@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Projeto_01.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Projeto_01.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Projeto_01.Domain.dll": {}
+        }
       }
     }
   },
@@ -171,11 +181,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Projeto_01.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Projeto_01.Domain/Projeto_01.Domain.csproj",
+      "msbuildProject": "../Projeto_01.Domain/Projeto_01.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "Projeto_01.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -211,7 +227,11 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos_DotNet\\Projeto_01\\Projeto_01.Domain\\Projeto_01.Domain.csproj": {
+              "projectPath": "C:\\Projetos_DotNet\\Projeto_01\\Projeto_01.Domain\\Projeto_01.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
